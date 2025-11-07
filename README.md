@@ -4,7 +4,7 @@
 >
 > This project is my first hyper-casual mobile game, developed using Unity and C#. It serves as a portfolio piece created with the goal of learning fundamental mobile game mechanics, UI design, and optimization processes.
 
-![Gameplay GIF](Screenshots/play.png)
+![Gameplay GIF](Screnshots/play.png)
 
 ## 🚀 Project Aim & Concept
 
@@ -38,17 +38,17 @@ Visuals showcasing the project's current state:
 ### 1. Main Menu & Settings
 | Main Menu | Settings |
 | :---: | :---: |
-| ![Main Menu](Screenshots/mainmenu.png) | ![Settings](Screenshots/settings.png) |
+| ![Main Menu](Screnshots/mainmenu.png) | ![Settings](Screnshots/settings.png) |
 
 ### 2. Character Customization Screen
 (This screen shows the customization options for the player.)
-![Character Customization](Screenshots/preferences1.png)
+![Character Customization](Screnshots/preferences1.png)
 
 ### 3. Gameplay Moments
 | Gameplay | End Game |
 | :---: | :---: |
-| ![Gameplay](Screenshots/play%202.png) | ![End Game Screen](Screenshots/endgame.png) |
+| ![Gameplay](Screnshots/play%202.png) | ![End Game Screen](Screnshots/endgame.png) |
 
 
 ### 4. Level Selection Menu
-![Level Selection](Screenshots/selectlevel.png)
+![Level Selection](Screnshots/selectlevel.png)
