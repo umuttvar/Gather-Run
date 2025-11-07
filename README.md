@@ -47,7 +47,7 @@ Visuals showcasing the project's current state:
 ### 3. Gameplay Moments
 | Gameplay | End Game |
 | :---: | :---: |
-| ![Gameplay](Screnshots/play%202.png) | ![End Game Screen](Screnshots/endgame.png) |
+| ![Gameplay](Screnshots/play.png) | ![End Game Screen](Screnshots/endgame.png) |
 
 
 ### 4. Level Selection Menu
